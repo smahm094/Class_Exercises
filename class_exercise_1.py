@@ -1,6 +1,6 @@
 x = int(input())
 y = int(input())
 print(x + y)
-a = int(input("Enter first number"))
-b = int(input("Enter second number"))
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
 print(a + b)
