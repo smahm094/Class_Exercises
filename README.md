@@ -1,4 +1,4 @@
-# gng5300_class_exercise_1
+# Class Exercise: Week-1
 
 This is a week-1 exercise of graduate level course: GNG5300 - Full Stack Cloud Developer
 
